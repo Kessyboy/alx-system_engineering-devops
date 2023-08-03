@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown --allow=guillaume betty hello
+chown --allow=guillaume betty hello
